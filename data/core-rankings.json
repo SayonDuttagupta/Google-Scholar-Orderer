@@ -84181,14 +84181,6 @@
       "h5": 109,
       "jcr": "Q1"
     },
-    "NETWORK": {
-      "fullName": "IEEE Network",
-      "core": "A",
-      "sjr": "Q1",
-      "jcr": "Q1",
-      "if": 9.3,
-      "h5": 72
-    },
     "NETWORKS": {
       "fullName": "Networks",
       "core": "A",
@@ -85911,13 +85903,6 @@
       "sjr": "Q2",
       "h5": 102,
       "jcr": "Q3"
-    },
-    "Network": {
-      "fullName": "IEEE Network",
-      "sjr": "Q1",
-      "jcr": "Q1",
-      "if": 9.3,
-      "h5": 72
     },
     "NetworkNeuro": {
       "fullName": "Network Neuroscience",
@@ -106892,8 +106877,6 @@
     "IEEE Signal Processing Magazine": "SPMag",
     "IEEE Commun. Mag.": "CommMag",
     "IEEE Communications Magazine": "CommMag",
-    "IEEE Netw.": "NETWORK",
-    "IEEE Network": "Network",
     "IEEE Softw.": "SOFTWARE",
     "IEEE Software": "SOFTWARE",
     "IEEE Comput.": "COMPUTER",
