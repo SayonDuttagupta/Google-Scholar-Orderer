@@ -1799,7 +1799,7 @@
       "h5": 2
     },
     "CCS": {
-      "fullName": "ACM Conference on Computer and Communications Security",
+      "fullName": "ACM SIGSAC Conference on Computer and Communications Securityy",
       "core": "A*",
       "h5": 90,
       "era": "A",
@@ -4219,7 +4219,7 @@
       "core": "A",
       "era": "A",
       "qualis": "B1",
-      "h5": 36
+      "h5": 50
     },
     "FCC": {
       "fullName": "Formal and Computational Cryptography",
@@ -4303,12 +4303,6 @@
       "core": "C",
       "h5": 49,
       "qualis": "B1"
-    },
-    "FINCRY": {
-      "fullName": "Financial Cryptography",
-      "core": "B",
-      "h5": 0,
-      "era": "B"
     },
     "FIRA": {
       "fullName": "FIRA Robot World Congress",
@@ -107008,6 +107002,10 @@
     "IFIP TC13 International Conference on Human-Computer Interaction": "INTERACT",
     "Network and Distributed System Security Symposium": "NDSS",
     "ACM Conference on Computer and Communications Security": "CCS",
+    "ACM SIGSAC Conference on Computer and Communications Security": "CCS",
+    "Financial Cryptography and Data Security": "FC",
+    "Proceeding of Financial Cryptography and Data Security (FC)": "FC",
+    "Proceeding of Financial Cryptography and Data Security": "FC",
     "Privacy Enhancing Technologies Symposium": "PETS",
     "Annual Computer Security Applications Conference": "ACSAC",
     "International Symposium on Research in Attacks Intrusions and Defenses": "RAID",
